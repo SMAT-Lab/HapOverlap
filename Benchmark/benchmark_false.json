@@ -1,0 +1,233 @@
+{
+  "cn.samsclub.hm.app": {
+    "sample_04": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.baidu.baiduapp": {
+    "sample_06": {
+      "ai": [
+        "llama",
+        "openai"
+      ],
+      "human": false
+    }
+  },
+  "com.baidu.netdisk.hmos": {
+    "sample_10": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.cmcc.cmvideohm": {
+    "sample_08": {
+      "ai": [
+        "llama",
+        "qwen"
+      ],
+      "human": false
+    }
+  },
+  "com.ctrip.harmonynext": {
+    "sample_01": {
+      "ai": [
+        "llama",
+        "openai",
+        "qwen"
+      ],
+      "human": false
+    }
+  },
+  "com.dragon.read.next": {
+    "sample_01": {
+      "ai": [
+        "llama",
+        "openai",
+        "qwen"
+      ],
+      "human": false
+    }
+  },
+  "com.hm.cat.readall": {
+    "sample_04": {
+      "ai": [
+        "llama",
+        "openai"
+      ],
+      "human": false
+    },
+    "sample_05": {
+      "ai": [
+        "gemini",
+        "llama",
+        "openai"
+      ],
+      "human": false
+    }
+  },
+  "com.hm.youdao": {
+    "sample_06": {
+      "ai": [
+        "llama",
+        "openai"
+      ],
+      "human": false
+    }
+  },
+  "com.htinns.application": {
+    "sample_01": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.jiaxiao.driveharmony": {
+    "sample_01": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.kanyun.hos.leo": {
+    "sample_10": {
+      "ai": [
+        "llama",
+        "qwen"
+      ],
+      "human": false
+    }
+  },
+  "com.kuaishou.hmapp": {
+    "sample_06": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.lianjia.hongmeng": {
+    "sample_03": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_07": {
+      "ai": [
+        "llama",
+        "qwen"
+      ],
+      "human": false
+    }
+  },
+  "com.meitu.meitupic": {
+    "sample_04": {
+      "ai": [
+        "llama",
+        "qwen"
+      ],
+      "human": false
+    }
+  },
+  "com.qimao.novel": {
+    "sample_08": {
+      "ai": [
+        "llama",
+        "openai"
+      ],
+      "human": false
+    }
+  },
+  "com.qunar.hos": {
+    "sample_07": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.sankuai.dianping": {
+    "sample_08": {
+      "ai": [
+        "llama",
+        "openai"
+      ],
+      "human": false
+    }
+  },
+  "com.tencent.videohm": {
+    "sample_05": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_08": {
+      "ai": [
+        "llama",
+        "openai",
+        "qwen"
+      ],
+      "human": false
+    },
+    "sample_09": {
+      "ai": [
+        "llama",
+        "openai",
+        "qwen"
+      ],
+      "human": false
+    },
+    "sample_10": {
+      "ai": [
+        "llama",
+        "qwen"
+      ],
+      "human": false
+    }
+  },
+  "com.tencent.wechat": {
+    "sample_03": {
+      "ai": [
+        "gemini",
+        "llama",
+        "openai",
+        "qwen"
+      ],
+      "human": false
+    }
+  },
+  "com.ximalaya.ting.xmharmony": {
+    "sample_03": {
+      "ai": [
+        "llama",
+        "qwen"
+      ],
+      "human": false
+    }
+  },
+  "yylx.danmaku.bili": {
+    "sample_09": {
+      "ai": [
+        "llama",
+        "qwen"
+      ],
+      "human": false
+    }
+  }
+}

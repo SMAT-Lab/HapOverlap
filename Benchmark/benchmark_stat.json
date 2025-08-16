@@ -1,0 +1,1921 @@
+{
+  "only_ai": [
+    {
+      "app": "cn.samsclub.hm.app",
+      "sample": "sample_04",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.amap.hmapp",
+      "sample": "sample_01",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.anjuke.home",
+      "sample": "sample_02",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.baidu.netdisk.hmos",
+      "sample": "sample_10",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.hm.cat.readall",
+      "sample": "sample_05",
+      "models": [
+        "gemini",
+        "llama",
+        "openai"
+      ]
+    },
+    {
+      "app": "com.htinns.application",
+      "sample": "sample_01",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.jiaxiao.driveharmony",
+      "sample": "sample_01",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.jiaxiao.driveharmony",
+      "sample": "sample_06",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.kanyun.hos.leo",
+      "sample": "sample_06",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.kanyun.hos.leo",
+      "sample": "sample_09",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.kanyun.hos.solar",
+      "sample": "sample_03",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.kanyun.hos.solar",
+      "sample": "sample_09",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.kuaishou.hmapp",
+      "sample": "sample_06",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.lianjia.hongmeng",
+      "sample": "sample_03",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.meitu.meitupic",
+      "sample": "sample_02",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.meitu.meitupic",
+      "sample": "sample_08",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.meitu.meitupic",
+      "sample": "sample_09",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.qiyi.video.hmy",
+      "sample": "sample_09",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.qunar.hos",
+      "sample": "sample_07",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tencent.hm.news",
+      "sample": "sample_05",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.tencent.videohm",
+      "sample": "sample_05",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tencent.wechat",
+      "sample": "sample_03",
+      "models": [
+        "gemini",
+        "llama",
+        "openai",
+        "qwen"
+      ]
+    },
+    {
+      "app": "cn.damai.hongmeng",
+      "sample": "sample_01",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "cn.damai.hongmeng",
+      "sample": "sample_02",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "cn.damai.hongmeng",
+      "sample": "sample_05",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "cn.damai.hongmeng",
+      "sample": "sample_06",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "cn.damai.hongmeng",
+      "sample": "sample_07",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "cn.damai.hongmeng",
+      "sample": "sample_09",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "cn.damai.hongmeng",
+      "sample": "sample_10",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "cn.icheny.wechat",
+      "sample": "sample_03",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "cn.icheny.wechat",
+      "sample": "sample_04",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.100mi.ddmc",
+      "sample": "sample_02",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.100mi.ddmc",
+      "sample": "sample_08",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.alipay.mobile.client",
+      "sample": "sample_10",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.amap.hmapp",
+      "sample": "sample_05",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.anjuke.home",
+      "sample": "sample_06",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.anjuke.home",
+      "sample": "sample_08",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.anjuke.home",
+      "sample": "sample_09",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.app.xt.retouch",
+      "sample": "sample_09",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.baidu.baiduapp",
+      "sample": "sample_02",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.baidu.baiduapp",
+      "sample": "sample_06",
+      "models": [
+        "llama",
+        "openai"
+      ]
+    },
+    {
+      "app": "com.baidu.netdisk.hmos",
+      "sample": "sample_02",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.baidu.netdisk.hmos",
+      "sample": "sample_08",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.baidu.netdisk.hmos",
+      "sample": "sample_09",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.beike.hongmeng",
+      "sample": "sample_01",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.cainiao.cainiao4hmos",
+      "sample": "sample_01",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.cainiao.cainiao4hmos",
+      "sample": "sample_03",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.cainiao.cainiao4hmos",
+      "sample": "sample_06",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.cainiao.cainiao4hmos",
+      "sample": "sample_07",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.ccb.mobilebank.hm",
+      "sample": "sample_05",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.ccb.mobilebank.hm",
+      "sample": "sample_08",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.cctv.yangshipin.app.harmonyp",
+      "sample": "sample_05",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.cmcc.cmvideohm",
+      "sample": "sample_08",
+      "models": [
+        "llama",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.ctrip.harmonynext",
+      "sample": "sample_01",
+      "models": [
+        "llama",
+        "openai",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.dewu.hos",
+      "sample": "sample_10",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.dragon.read.next",
+      "sample": "sample_01",
+      "models": [
+        "llama",
+        "openai",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.dragon.read.next",
+      "sample": "sample_02",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.fliggy.hmos",
+      "sample": "sample_02",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.fliggy.hmos",
+      "sample": "sample_05",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.fliggy.hmos",
+      "sample": "sample_09",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.hm.cat.readall",
+      "sample": "sample_04",
+      "models": [
+        "llama",
+        "openai"
+      ]
+    },
+    {
+      "app": "com.hm.cat.readall",
+      "sample": "sample_06",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.hm.youdao",
+      "sample": "sample_04",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.hm.youdao",
+      "sample": "sample_06",
+      "models": [
+        "llama",
+        "openai"
+      ]
+    },
+    {
+      "app": "com.hm.youdao",
+      "sample": "sample_09",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.hos.moonshot.kimichat",
+      "sample": "sample_04",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.hos.moonshot.kimichat",
+      "sample": "sample_10",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.htinns.application",
+      "sample": "sample_04",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.hupu.heroes",
+      "sample": "sample_04",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.icbc.harmonyclient",
+      "sample": "sample_07",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.jd.hm.mall",
+      "sample": "sample_07",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.jd.hm.mall",
+      "sample": "sample_10",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.jiaxiao.driveharmony",
+      "sample": "sample_02",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.jiaxiao.driveharmony",
+      "sample": "sample_03",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.jiaxiao.driveharmony",
+      "sample": "sample_04",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.kanyun.hos.leo",
+      "sample": "sample_04",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.kanyun.hos.leo",
+      "sample": "sample_10",
+      "models": [
+        "llama",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.kanyun.hos.solar",
+      "sample": "sample_04",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.kuaiduizuoye.hm",
+      "sample": "sample_09",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.kuaishou.hmapp",
+      "sample": "sample_04",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.kugou.hmmusic",
+      "sample": "sample_02",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.lemon.hm.lv",
+      "sample": "sample_06",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.lemon.hm.lv",
+      "sample": "sample_07",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.lianjia.hongmeng",
+      "sample": "sample_04",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.lianjia.hongmeng",
+      "sample": "sample_06",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.lianjia.hongmeng",
+      "sample": "sample_07",
+      "models": [
+        "llama",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.lianjia.hongmeng",
+      "sample": "sample_08",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.liuzh.deviceinfo.hmos",
+      "sample": "sample_02",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.liuzh.deviceinfo.hmos",
+      "sample": "sample_06",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.liuzh.deviceinfo.hmos",
+      "sample": "sample_07",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.liuzh.deviceinfo.hmos",
+      "sample": "sample_08",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.lucky.luckincoffee",
+      "sample": "sample_02",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.lucky.luckincoffee",
+      "sample": "sample_05",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.luna.hm.music",
+      "sample": "sample_09",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.meitu.meitupic",
+      "sample": "sample_03",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.meitu.meitupic",
+      "sample": "sample_04",
+      "models": [
+        "llama",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.meituan.takeaway",
+      "sample": "sample_05",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.pingan.oharm.carowner",
+      "sample": "sample_03",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.qihoo.hms.browser",
+      "sample": "sample_02",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.qimao.novel",
+      "sample": "sample_06",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.qimao.novel",
+      "sample": "sample_08",
+      "models": [
+        "llama",
+        "openai"
+      ]
+    },
+    {
+      "app": "com.qimao.novel",
+      "sample": "sample_10",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.qiyi.video.hmy",
+      "sample": "sample_07",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.qiyi.video.hmy",
+      "sample": "sample_08",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.qunar.hos",
+      "sample": "sample_08",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.qunar.hos",
+      "sample": "sample_09",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.qunar.hos",
+      "sample": "sample_10",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.sankuai.dianping",
+      "sample": "sample_08",
+      "models": [
+        "llama",
+        "openai"
+      ]
+    },
+    {
+      "app": "com.sina.news.hm.next",
+      "sample": "sample_05",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.sinyee.babybus.recommendapp.hos",
+      "sample": "sample_04",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.sinyee.babybus.recommendapp.hos",
+      "sample": "sample_06",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.sinyee.babybus.recommendapp.hos",
+      "sample": "sample_09",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.ss.dcar.auto",
+      "sample": "sample_01",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.ss.feishu",
+      "sample": "sample_05",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.ss.hm.article.news",
+      "sample": "sample_03",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.ss.hm.article.news",
+      "sample": "sample_07",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.ss.hm.ugc.aweme",
+      "sample": "sample_03",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.ss.hm.ugc.aweme",
+      "sample": "sample_09",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.sunboxsoft.charge.institute.hmos",
+      "sample": "sample_01",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.sunboxsoft.charge.institute.hmos",
+      "sample": "sample_03",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.sunboxsoft.charge.institute.hmos",
+      "sample": "sample_10",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.taobao.taobaolive4hmos",
+      "sample": "sample_01",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tencent.hm.news",
+      "sample": "sample_04",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tencent.hm.news",
+      "sample": "sample_07",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tencent.hm.qqmusic",
+      "sample": "sample_03",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tencent.hm.qqmusic",
+      "sample": "sample_04",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tencent.hm.qqmusic",
+      "sample": "sample_05",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tencent.hm.qqmusic",
+      "sample": "sample_06",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tencent.hm.qqmusic",
+      "sample": "sample_10",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tencent.meeting.app",
+      "sample": "sample_04",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tencent.meeting.app",
+      "sample": "sample_07",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tencent.mqq",
+      "sample": "sample_02",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tencent.mqq",
+      "sample": "sample_04",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tencent.mqq",
+      "sample": "sample_05",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tencent.mtthm",
+      "sample": "sample_07",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tencent.videohm",
+      "sample": "sample_08",
+      "models": [
+        "llama",
+        "openai",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.tencent.videohm",
+      "sample": "sample_09",
+      "models": [
+        "llama",
+        "openai",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.tencent.videohm",
+      "sample": "sample_10",
+      "models": [
+        "llama",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.tencent.wechat",
+      "sample": "sample_04",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tencent.wechat",
+      "sample": "sample_06",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tencent.wechat",
+      "sample": "sample_07",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tencent.wechat",
+      "sample": "sample_08",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tmall.tmall4hmos",
+      "sample": "sample_04",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tongcheng.hmos",
+      "sample": "sample_01",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tongcheng.hmos",
+      "sample": "sample_04",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tongcheng.hmos",
+      "sample": "sample_05",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.uc.mobile",
+      "sample": "sample_07",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.uc.mobile",
+      "sample": "sample_09",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.uc.mobile",
+      "sample": "sample_10",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.umetrip.hm.app",
+      "sample": "sample_01",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.umetrip.hm.app",
+      "sample": "sample_02",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.umetrip.hm.app",
+      "sample": "sample_06",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.umetrip.hm.app",
+      "sample": "sample_07",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.umetrip.hm.app",
+      "sample": "sample_09",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.ximalaya.ting.xmharmony",
+      "sample": "sample_03",
+      "models": [
+        "llama",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.ximalaya.ting.xmharmony",
+      "sample": "sample_07",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.xs.fm.next",
+      "sample": "sample_09",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.xunlei.thunder",
+      "sample": "sample_08",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.xunmeng.pinduoduo.hos",
+      "sample": "sample_08",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.xunmeng.pinduoduo.hos",
+      "sample": "sample_09",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.yiche.autoeasyh",
+      "sample": "sample_07",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.yumc.kfc.superapp",
+      "sample": "sample_02",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.yumc.kfc.superapp",
+      "sample": "sample_04",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.zhibo8.hmclient",
+      "sample": "sample_08",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.zhuanzhuan.hmoszz",
+      "sample": "sample_02",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.zuoyebang.homework",
+      "sample": "sample_04",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.zuoyebang.homework",
+      "sample": "sample_08",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "me.ele.eleme",
+      "sample": "sample_06",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "yylx.danmaku.bili",
+      "sample": "sample_06",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "yylx.danmaku.bili",
+      "sample": "sample_09",
+      "models": [
+        "llama",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.cctv.yangshipin.app.harmonyp",
+      "sample": "sample_08",
+      "models": [
+        "openai"
+      ]
+    },
+    {
+      "app": "com.cctv.yangshipin.app.harmonyp",
+      "sample": "sample_09",
+      "models": [
+        "openai"
+      ]
+    },
+    {
+      "app": "com.luna.hm.music",
+      "sample": "sample_06",
+      "models": [
+        "openai"
+      ]
+    },
+    {
+      "app": "com.sina.news.hm.next",
+      "sample": "sample_08",
+      "models": [
+        "openai"
+      ]
+    },
+    {
+      "app": "com.sina.weibo.stage",
+      "sample": "sample_07",
+      "models": [
+        "openai"
+      ]
+    },
+    {
+      "app": "com.taobao.taobao4hmos",
+      "sample": "sample_02",
+      "models": [
+        "openai"
+      ]
+    },
+    {
+      "app": "com.zhibo8.hmclient",
+      "sample": "sample_04",
+      "models": [
+        "openai"
+      ]
+    },
+    {
+      "app": "com.zhibo8.hmclient",
+      "sample": "sample_06",
+      "models": [
+        "openai"
+      ]
+    },
+    {
+      "app": "yylx.danmaku.bili",
+      "sample": "sample_05",
+      "models": [
+        "openai"
+      ]
+    },
+    {
+      "app": "com.luna.hm.music",
+      "sample": "sample_02",
+      "models": [
+        "qwen"
+      ]
+    }
+  ],
+  "only_human": [
+    {
+      "app": "com.app.xt.retouch",
+      "sample": "sample_06"
+    },
+    {
+      "app": "com.icbc.harmonyclient",
+      "sample": "sample_02"
+    },
+    {
+      "app": "com.jd.hm.mall",
+      "sample": "sample_06"
+    },
+    {
+      "app": "com.jinrishuiyinxiangji.camera",
+      "sample": "sample_02"
+    },
+    {
+      "app": "com.jinrishuiyinxiangji.camera",
+      "sample": "sample_06"
+    },
+    {
+      "app": "com.qunar.hos",
+      "sample": "sample_06"
+    },
+    {
+      "app": "com.sinyee.babybus.recommendapp.hos",
+      "sample": "sample_07"
+    },
+    {
+      "app": "com.tencent.meeting.app",
+      "sample": "sample_10"
+    },
+    {
+      "app": "com.zhihu.hmos",
+      "sample": "sample_07"
+    },
+    {
+      "app": "com.zhuanzhuan.hmoszz",
+      "sample": "sample_06"
+    },
+    {
+      "app": "com.zhuanzhuan.hmoszz",
+      "sample": "sample_10"
+    },
+    {
+      "app": "me.ele.eleme",
+      "sample": "sample_07"
+    }
+  ],
+  "both": [
+    {
+      "app": "com.amap.hmapp",
+      "sample": "sample_06",
+      "models": [
+        "openai",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.amap.hmapp",
+      "sample": "sample_07",
+      "models": [
+        "gemini",
+        "llama",
+        "openai"
+      ]
+    },
+    {
+      "app": "com.amap.hmapp",
+      "sample": "sample_08",
+      "models": [
+        "gemini",
+        "openai"
+      ]
+    },
+    {
+      "app": "com.anjuke.home",
+      "sample": "sample_01",
+      "models": [
+        "llama",
+        "openai"
+      ]
+    },
+    {
+      "app": "com.anjuke.home",
+      "sample": "sample_05",
+      "models": [
+        "gemini",
+        "llama",
+        "openai"
+      ]
+    },
+    {
+      "app": "com.app.xt.retouch",
+      "sample": "sample_08",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.baidu.baiduapp",
+      "sample": "sample_03",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.baidu.baiduapp",
+      "sample": "sample_05",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.baidu.netdisk.hmos",
+      "sample": "sample_03",
+      "models": [
+        "gemini",
+        "llama",
+        "openai",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.baidu.netdisk.hmos",
+      "sample": "sample_04",
+      "models": [
+        "gemini",
+        "llama",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.baidu.netdisk.hmos",
+      "sample": "sample_07",
+      "models": [
+        "llama",
+        "openai",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.beike.hongmeng",
+      "sample": "sample_04",
+      "models": [
+        "gemini",
+        "llama",
+        "openai",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.beike.hongmeng",
+      "sample": "sample_10",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.cctv.yangshipin.app.harmonyp",
+      "sample": "sample_03",
+      "models": [
+        "openai"
+      ]
+    },
+    {
+      "app": "com.cctv.yangshipin.app.harmonyp",
+      "sample": "sample_07",
+      "models": [
+        "gemini",
+        "llama",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.cmbchina.harmony",
+      "sample": "sample_04",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.cmbchina.harmony",
+      "sample": "sample_10",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.cmcc.cmvideohm",
+      "sample": "sample_01",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.cmcc.cmvideohm",
+      "sample": "sample_02",
+      "models": [
+        "openai",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.cmcc.cmvideohm",
+      "sample": "sample_09",
+      "models": [
+        "openai"
+      ]
+    },
+    {
+      "app": "com.cmcc.cmvideohm",
+      "sample": "sample_10",
+      "models": [
+        "llama",
+        "openai",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.ctrip.harmonynext",
+      "sample": "sample_05",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.dewu.hos",
+      "sample": "sample_09",
+      "models": [
+        "llama",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.fliggy.hmos",
+      "sample": "sample_08",
+      "models": [
+        "openai",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.hm.cat.readall",
+      "sample": "sample_10",
+      "models": [
+        "gemini",
+        "llama",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.ihuman.words",
+      "sample": "sample_01",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.jd.hm.mall",
+      "sample": "sample_05",
+      "models": [
+        "gemini",
+        "llama",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.jinrishuiyinxiangji.camera",
+      "sample": "sample_01",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.kanyun.hos.solar",
+      "sample": "sample_07",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.kuaishou.hmapp",
+      "sample": "sample_10",
+      "models": [
+        "gemini",
+        "llama",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.lemon.hm.lv",
+      "sample": "sample_08",
+      "models": [
+        "llama",
+        "openai"
+      ]
+    },
+    {
+      "app": "com.lucky.luckincoffee",
+      "sample": "sample_08",
+      "models": [
+        "llama",
+        "openai"
+      ]
+    },
+    {
+      "app": "com.lucky.luckincoffee",
+      "sample": "sample_09",
+      "models": [
+        "llama",
+        "openai"
+      ]
+    },
+    {
+      "app": "com.luna.hm.music",
+      "sample": "sample_05",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.meitu.meitupic",
+      "sample": "sample_07",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.meituan.takeaway",
+      "sample": "sample_03",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.sankuai.dianping",
+      "sample": "sample_01",
+      "models": [
+        "gemini",
+        "llama",
+        "openai",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.sdu.didi.hmos.psnger",
+      "sample": "sample_01",
+      "models": [
+        "gemini",
+        "llama",
+        "openai"
+      ]
+    },
+    {
+      "app": "com.sdu.didi.hmos.psnger",
+      "sample": "sample_02",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.sdu.didi.hmos.psnger",
+      "sample": "sample_03",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.sdu.didi.hmos.psnger",
+      "sample": "sample_08",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.sinyee.babybus.recommendapp.hos",
+      "sample": "sample_03",
+      "models": [
+        "gemini",
+        "openai"
+      ]
+    },
+    {
+      "app": "com.ss.hm.ugc.aweme",
+      "sample": "sample_06",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.taobao.movie.hongmeng",
+      "sample": "sample_10",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.taobao.taobao4hmos",
+      "sample": "sample_04",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.taobao.taobao4hmos",
+      "sample": "sample_05",
+      "models": [
+        "gemini",
+        "llama",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.taobao.taobao4hmos",
+      "sample": "sample_06",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.taobao.taobao4hmos",
+      "sample": "sample_07",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.taobao.taobao4hmos",
+      "sample": "sample_10",
+      "models": [
+        "gemini",
+        "llama",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.taobao.taobaolive4hmos",
+      "sample": "sample_02",
+      "models": [
+        "gemini",
+        "llama",
+        "openai"
+      ]
+    },
+    {
+      "app": "com.taobao.taobaolive4hmos",
+      "sample": "sample_03",
+      "models": [
+        "gemini",
+        "llama",
+        "openai",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.tencent.wechat",
+      "sample": "sample_09",
+      "models": [
+        "gemini",
+        "llama",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.tmall.tmall4hmos",
+      "sample": "sample_02",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tmall.tmall4hmos",
+      "sample": "sample_06",
+      "models": [
+        "gemini",
+        "llama",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.tmall.tmall4hmos",
+      "sample": "sample_07",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.tmall.tmall4hmos",
+      "sample": "sample_08",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.uc.mobile",
+      "sample": "sample_04",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.vip.hosapp",
+      "sample": "sample_01",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.ximalaya.ting.xmharmony",
+      "sample": "sample_04",
+      "models": [
+        "gemini",
+        "llama",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.xunmeng.pinduoduo.hos",
+      "sample": "sample_07",
+      "models": [
+        "openai"
+      ]
+    },
+    {
+      "app": "com.yiche.autoeasyh",
+      "sample": "sample_08",
+      "models": [
+        "llama",
+        "openai"
+      ]
+    },
+    {
+      "app": "com.youku.next",
+      "sample": "sample_01",
+      "models": [
+        "gemini",
+        "llama"
+      ]
+    },
+    {
+      "app": "com.youku.next",
+      "sample": "sample_02",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "com.yumc.kfc.superapp",
+      "sample": "sample_09",
+      "models": [
+        "llama",
+        "openai"
+      ]
+    },
+    {
+      "app": "com.zhihu.hmos",
+      "sample": "sample_10",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.zhuanzhuan.hmoszz",
+      "sample": "sample_04",
+      "models": [
+        "gemini",
+        "llama",
+        "qwen"
+      ]
+    },
+    {
+      "app": "com.zuoyebang.homework",
+      "sample": "sample_01",
+      "models": [
+        "gemini"
+      ]
+    },
+    {
+      "app": "com.zuoyebang.homework",
+      "sample": "sample_05",
+      "models": [
+        "llama",
+        "openai"
+      ]
+    },
+    {
+      "app": "com.zuoyebang.homework",
+      "sample": "sample_06",
+      "models": [
+        "llama",
+        "openai"
+      ]
+    },
+    {
+      "app": "com.zuoyebang.homework",
+      "sample": "sample_10",
+      "models": [
+        "llama"
+      ]
+    },
+    {
+      "app": "yylx.danmaku.bili",
+      "sample": "sample_04",
+      "models": [
+        "openai"
+      ]
+    }
+  ]
+}

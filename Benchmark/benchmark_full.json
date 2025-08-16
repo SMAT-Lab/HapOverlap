@@ -1,0 +1,1834 @@
+{
+  "cn.damai.hongmeng": {
+    "sample_01": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_02": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_05": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_06": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_07": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_09": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_10": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "cn.icheny.wechat": {
+    "sample_03": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_04": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "cn.samsclub.hm.app": {
+    "sample_04": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.100mi.ddmc": {
+    "sample_02": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_08": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.alipay.mobile.client": {
+    "sample_10": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.amap.hmapp": {
+    "sample_01": {
+      "ai": [
+        "gemini"
+      ],
+      "human": false
+    },
+    "sample_05": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_06": {
+      "ai": [
+        "openai",
+        "qwen"
+      ],
+      "human": true
+    },
+    "sample_07": {
+      "ai": [
+        "gemini",
+        "llama",
+        "openai"
+      ],
+      "human": true
+    },
+    "sample_08": {
+      "ai": [
+        "gemini",
+        "openai"
+      ],
+      "human": true
+    }
+  },
+  "com.anjuke.home": {
+    "sample_01": {
+      "ai": [
+        "llama",
+        "openai"
+      ],
+      "human": true
+    },
+    "sample_02": {
+      "ai": [
+        "gemini"
+      ],
+      "human": false
+    },
+    "sample_05": {
+      "ai": [
+        "gemini",
+        "llama",
+        "openai"
+      ],
+      "human": true
+    },
+    "sample_06": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_08": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_09": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.app.xt.retouch": {
+    "sample_06": {
+      "ai": [],
+      "human": true
+    },
+    "sample_08": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": true
+    },
+    "sample_09": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.baidu.baiduapp": {
+    "sample_02": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_03": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": true
+    },
+    "sample_05": {
+      "ai": [
+        "gemini"
+      ],
+      "human": true
+    },
+    "sample_06": {
+      "ai": [
+        "llama",
+        "openai"
+      ],
+      "human": false
+    }
+  },
+  "com.baidu.netdisk.hmos": {
+    "sample_02": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_03": {
+      "ai": [
+        "gemini",
+        "llama",
+        "openai",
+        "qwen"
+      ],
+      "human": true
+    },
+    "sample_04": {
+      "ai": [
+        "gemini",
+        "llama",
+        "qwen"
+      ],
+      "human": true
+    },
+    "sample_07": {
+      "ai": [
+        "llama",
+        "openai",
+        "qwen"
+      ],
+      "human": true
+    },
+    "sample_08": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_09": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_10": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.beike.hongmeng": {
+    "sample_01": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_04": {
+      "ai": [
+        "gemini",
+        "llama",
+        "openai",
+        "qwen"
+      ],
+      "human": true
+    },
+    "sample_10": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": true
+    }
+  },
+  "com.cainiao.cainiao4hmos": {
+    "sample_01": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_03": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_06": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_07": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.ccb.mobilebank.hm": {
+    "sample_05": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_08": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.cctv.yangshipin.app.harmonyp": {
+    "sample_03": {
+      "ai": [
+        "openai"
+      ],
+      "human": true
+    },
+    "sample_05": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_07": {
+      "ai": [
+        "gemini",
+        "llama",
+        "qwen"
+      ],
+      "human": true
+    },
+    "sample_08": {
+      "ai": [
+        "openai"
+      ],
+      "human": false
+    },
+    "sample_09": {
+      "ai": [
+        "openai"
+      ],
+      "human": false
+    }
+  },
+  "com.cmbchina.harmony": {
+    "sample_04": {
+      "ai": [
+        "gemini"
+      ],
+      "human": true
+    },
+    "sample_10": {
+      "ai": [
+        "gemini"
+      ],
+      "human": true
+    }
+  },
+  "com.cmcc.cmvideohm": {
+    "sample_01": {
+      "ai": [
+        "gemini"
+      ],
+      "human": true
+    },
+    "sample_02": {
+      "ai": [
+        "openai",
+        "qwen"
+      ],
+      "human": true
+    },
+    "sample_08": {
+      "ai": [
+        "llama",
+        "qwen"
+      ],
+      "human": false
+    },
+    "sample_09": {
+      "ai": [
+        "openai"
+      ],
+      "human": true
+    },
+    "sample_10": {
+      "ai": [
+        "llama",
+        "openai",
+        "qwen"
+      ],
+      "human": true
+    }
+  },
+  "com.ctrip.harmonynext": {
+    "sample_01": {
+      "ai": [
+        "llama",
+        "openai",
+        "qwen"
+      ],
+      "human": false
+    },
+    "sample_05": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": true
+    }
+  },
+  "com.dewu.hos": {
+    "sample_09": {
+      "ai": [
+        "llama",
+        "qwen"
+      ],
+      "human": true
+    },
+    "sample_10": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.dragon.read.next": {
+    "sample_01": {
+      "ai": [
+        "llama",
+        "openai",
+        "qwen"
+      ],
+      "human": false
+    },
+    "sample_02": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.fliggy.hmos": {
+    "sample_02": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_05": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_08": {
+      "ai": [
+        "openai",
+        "qwen"
+      ],
+      "human": true
+    },
+    "sample_09": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.hm.cat.readall": {
+    "sample_04": {
+      "ai": [
+        "llama",
+        "openai"
+      ],
+      "human": false
+    },
+    "sample_05": {
+      "ai": [
+        "gemini",
+        "llama",
+        "openai"
+      ],
+      "human": false
+    },
+    "sample_06": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_10": {
+      "ai": [
+        "gemini",
+        "llama",
+        "qwen"
+      ],
+      "human": true
+    }
+  },
+  "com.hm.youdao": {
+    "sample_04": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_06": {
+      "ai": [
+        "llama",
+        "openai"
+      ],
+      "human": false
+    },
+    "sample_09": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.hos.moonshot.kimichat": {
+    "sample_04": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_10": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.htinns.application": {
+    "sample_01": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_04": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.hupu.heroes": {
+    "sample_04": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.icbc.harmonyclient": {
+    "sample_02": {
+      "ai": [],
+      "human": true
+    },
+    "sample_07": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.ihuman.words": {
+    "sample_01": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": true
+    }
+  },
+  "com.jd.hm.mall": {
+    "sample_05": {
+      "ai": [
+        "gemini",
+        "llama",
+        "qwen"
+      ],
+      "human": true
+    },
+    "sample_06": {
+      "ai": [],
+      "human": true
+    },
+    "sample_07": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_10": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.jiaxiao.driveharmony": {
+    "sample_01": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_02": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_03": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_04": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_06": {
+      "ai": [
+        "gemini"
+      ],
+      "human": false
+    }
+  },
+  "com.jinrishuiyinxiangji.camera": {
+    "sample_01": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": true
+    },
+    "sample_02": {
+      "ai": [],
+      "human": true
+    },
+    "sample_06": {
+      "ai": [],
+      "human": true
+    }
+  },
+  "com.kanyun.hos.leo": {
+    "sample_04": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_06": {
+      "ai": [
+        "gemini"
+      ],
+      "human": false
+    },
+    "sample_09": {
+      "ai": [
+        "gemini"
+      ],
+      "human": false
+    },
+    "sample_10": {
+      "ai": [
+        "llama",
+        "qwen"
+      ],
+      "human": false
+    }
+  },
+  "com.kanyun.hos.solar": {
+    "sample_03": {
+      "ai": [
+        "gemini"
+      ],
+      "human": false
+    },
+    "sample_04": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_07": {
+      "ai": [
+        "gemini"
+      ],
+      "human": true
+    },
+    "sample_09": {
+      "ai": [
+        "gemini"
+      ],
+      "human": false
+    }
+  },
+  "com.kuaiduizuoye.hm": {
+    "sample_09": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.kuaishou.hmapp": {
+    "sample_04": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_06": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_10": {
+      "ai": [
+        "gemini",
+        "llama",
+        "qwen"
+      ],
+      "human": true
+    }
+  },
+  "com.kugou.hmmusic": {
+    "sample_02": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.lemon.hm.lv": {
+    "sample_06": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_07": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_08": {
+      "ai": [
+        "llama",
+        "openai"
+      ],
+      "human": true
+    }
+  },
+  "com.lianjia.hongmeng": {
+    "sample_03": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_04": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_06": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_07": {
+      "ai": [
+        "llama",
+        "qwen"
+      ],
+      "human": false
+    },
+    "sample_08": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.liuzh.deviceinfo.hmos": {
+    "sample_02": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_06": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_07": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_08": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.lucky.luckincoffee": {
+    "sample_02": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_05": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_08": {
+      "ai": [
+        "llama",
+        "openai"
+      ],
+      "human": true
+    },
+    "sample_09": {
+      "ai": [
+        "llama",
+        "openai"
+      ],
+      "human": true
+    }
+  },
+  "com.luna.hm.music": {
+    "sample_02": {
+      "ai": [
+        "qwen"
+      ],
+      "human": false
+    },
+    "sample_05": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": true
+    },
+    "sample_06": {
+      "ai": [
+        "openai"
+      ],
+      "human": false
+    },
+    "sample_09": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.meitu.meitupic": {
+    "sample_02": {
+      "ai": [
+        "gemini"
+      ],
+      "human": false
+    },
+    "sample_03": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_04": {
+      "ai": [
+        "llama",
+        "qwen"
+      ],
+      "human": false
+    },
+    "sample_07": {
+      "ai": [
+        "gemini"
+      ],
+      "human": true
+    },
+    "sample_08": {
+      "ai": [
+        "gemini"
+      ],
+      "human": false
+    },
+    "sample_09": {
+      "ai": [
+        "gemini"
+      ],
+      "human": false
+    }
+  },
+  "com.meituan.takeaway": {
+    "sample_03": {
+      "ai": [
+        "gemini"
+      ],
+      "human": true
+    },
+    "sample_05": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.pingan.oharm.carowner": {
+    "sample_03": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.qihoo.hms.browser": {
+    "sample_02": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.qimao.novel": {
+    "sample_06": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_08": {
+      "ai": [
+        "llama",
+        "openai"
+      ],
+      "human": false
+    },
+    "sample_10": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.qiyi.video.hmy": {
+    "sample_07": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_08": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_09": {
+      "ai": [
+        "gemini"
+      ],
+      "human": false
+    }
+  },
+  "com.qunar.hos": {
+    "sample_06": {
+      "ai": [],
+      "human": true
+    },
+    "sample_07": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_08": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_09": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_10": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.sankuai.dianping": {
+    "sample_01": {
+      "ai": [
+        "gemini",
+        "llama",
+        "openai",
+        "qwen"
+      ],
+      "human": true
+    },
+    "sample_08": {
+      "ai": [
+        "llama",
+        "openai"
+      ],
+      "human": false
+    }
+  },
+  "com.sdu.didi.hmos.psnger": {
+    "sample_01": {
+      "ai": [
+        "gemini",
+        "llama",
+        "openai"
+      ],
+      "human": true
+    },
+    "sample_02": {
+      "ai": [
+        "gemini"
+      ],
+      "human": true
+    },
+    "sample_03": {
+      "ai": [
+        "gemini"
+      ],
+      "human": true
+    },
+    "sample_08": {
+      "ai": [
+        "gemini"
+      ],
+      "human": true
+    }
+  },
+  "com.sina.news.hm.next": {
+    "sample_05": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_08": {
+      "ai": [
+        "openai"
+      ],
+      "human": false
+    }
+  },
+  "com.sina.weibo.stage": {
+    "sample_07": {
+      "ai": [
+        "openai"
+      ],
+      "human": false
+    }
+  },
+  "com.sinyee.babybus.recommendapp.hos": {
+    "sample_03": {
+      "ai": [
+        "gemini",
+        "openai"
+      ],
+      "human": true
+    },
+    "sample_04": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_06": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_07": {
+      "ai": [],
+      "human": true
+    },
+    "sample_09": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.ss.dcar.auto": {
+    "sample_01": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.ss.feishu": {
+    "sample_05": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.ss.hm.article.news": {
+    "sample_03": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_07": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.ss.hm.ugc.aweme": {
+    "sample_03": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_06": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": true
+    },
+    "sample_09": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.sunboxsoft.charge.institute.hmos": {
+    "sample_01": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_03": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_10": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.taobao.movie.hongmeng": {
+    "sample_10": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": true
+    }
+  },
+  "com.taobao.taobao4hmos": {
+    "sample_02": {
+      "ai": [
+        "openai"
+      ],
+      "human": false
+    },
+    "sample_04": {
+      "ai": [
+        "gemini"
+      ],
+      "human": true
+    },
+    "sample_05": {
+      "ai": [
+        "gemini",
+        "llama",
+        "qwen"
+      ],
+      "human": true
+    },
+    "sample_06": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": true
+    },
+    "sample_07": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": true
+    },
+    "sample_10": {
+      "ai": [
+        "gemini",
+        "llama",
+        "qwen"
+      ],
+      "human": true
+    }
+  },
+  "com.taobao.taobaolive4hmos": {
+    "sample_01": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_02": {
+      "ai": [
+        "gemini",
+        "llama",
+        "openai"
+      ],
+      "human": true
+    },
+    "sample_03": {
+      "ai": [
+        "gemini",
+        "llama",
+        "openai",
+        "qwen"
+      ],
+      "human": true
+    }
+  },
+  "com.tencent.hm.news": {
+    "sample_04": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_05": {
+      "ai": [
+        "gemini"
+      ],
+      "human": false
+    },
+    "sample_07": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.tencent.hm.qqmusic": {
+    "sample_03": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_04": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_05": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_06": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_10": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.tencent.meeting.app": {
+    "sample_04": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_07": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_10": {
+      "ai": [],
+      "human": true
+    }
+  },
+  "com.tencent.mqq": {
+    "sample_02": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_04": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_05": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.tencent.mtthm": {
+    "sample_07": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.tencent.videohm": {
+    "sample_05": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_08": {
+      "ai": [
+        "llama",
+        "openai",
+        "qwen"
+      ],
+      "human": false
+    },
+    "sample_09": {
+      "ai": [
+        "llama",
+        "openai",
+        "qwen"
+      ],
+      "human": false
+    },
+    "sample_10": {
+      "ai": [
+        "llama",
+        "qwen"
+      ],
+      "human": false
+    }
+  },
+  "com.tencent.wechat": {
+    "sample_03": {
+      "ai": [
+        "gemini",
+        "llama",
+        "openai",
+        "qwen"
+      ],
+      "human": false
+    },
+    "sample_04": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_06": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_07": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_08": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_09": {
+      "ai": [
+        "gemini",
+        "llama",
+        "qwen"
+      ],
+      "human": true
+    }
+  },
+  "com.tmall.tmall4hmos": {
+    "sample_02": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": true
+    },
+    "sample_04": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_06": {
+      "ai": [
+        "gemini",
+        "llama",
+        "qwen"
+      ],
+      "human": true
+    },
+    "sample_07": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": true
+    },
+    "sample_08": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": true
+    }
+  },
+  "com.tongcheng.hmos": {
+    "sample_01": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_04": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_05": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.uc.mobile": {
+    "sample_04": {
+      "ai": [
+        "gemini"
+      ],
+      "human": true
+    },
+    "sample_07": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_09": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_10": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.umetrip.hm.app": {
+    "sample_01": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_02": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_06": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_07": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_09": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.vip.hosapp": {
+    "sample_01": {
+      "ai": [
+        "gemini"
+      ],
+      "human": true
+    }
+  },
+  "com.ximalaya.ting.xmharmony": {
+    "sample_03": {
+      "ai": [
+        "llama",
+        "qwen"
+      ],
+      "human": false
+    },
+    "sample_04": {
+      "ai": [
+        "gemini",
+        "llama",
+        "qwen"
+      ],
+      "human": true
+    },
+    "sample_07": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.xs.fm.next": {
+    "sample_09": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.xunlei.thunder": {
+    "sample_08": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.xunmeng.pinduoduo.hos": {
+    "sample_07": {
+      "ai": [
+        "openai"
+      ],
+      "human": true
+    },
+    "sample_08": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_09": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.yiche.autoeasyh": {
+    "sample_07": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_08": {
+      "ai": [
+        "llama",
+        "openai"
+      ],
+      "human": true
+    }
+  },
+  "com.youku.next": {
+    "sample_01": {
+      "ai": [
+        "gemini",
+        "llama"
+      ],
+      "human": true
+    },
+    "sample_02": {
+      "ai": [
+        "llama"
+      ],
+      "human": true
+    }
+  },
+  "com.yumc.kfc.superapp": {
+    "sample_02": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_04": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_09": {
+      "ai": [
+        "llama",
+        "openai"
+      ],
+      "human": true
+    }
+  },
+  "com.zhibo8.hmclient": {
+    "sample_04": {
+      "ai": [
+        "openai"
+      ],
+      "human": false
+    },
+    "sample_06": {
+      "ai": [
+        "openai"
+      ],
+      "human": false
+    },
+    "sample_08": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    }
+  },
+  "com.zhihu.hmos": {
+    "sample_07": {
+      "ai": [],
+      "human": true
+    },
+    "sample_10": {
+      "ai": [
+        "gemini"
+      ],
+      "human": true
+    }
+  },
+  "com.zhuanzhuan.hmoszz": {
+    "sample_02": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_04": {
+      "ai": [
+        "gemini",
+        "llama",
+        "qwen"
+      ],
+      "human": true
+    },
+    "sample_06": {
+      "ai": [],
+      "human": true
+    },
+    "sample_10": {
+      "ai": [],
+      "human": true
+    }
+  },
+  "com.zuoyebang.homework": {
+    "sample_01": {
+      "ai": [
+        "gemini"
+      ],
+      "human": true
+    },
+    "sample_04": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_05": {
+      "ai": [
+        "llama",
+        "openai"
+      ],
+      "human": true
+    },
+    "sample_06": {
+      "ai": [
+        "llama",
+        "openai"
+      ],
+      "human": true
+    },
+    "sample_08": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_10": {
+      "ai": [
+        "llama"
+      ],
+      "human": true
+    }
+  },
+  "me.ele.eleme": {
+    "sample_06": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_07": {
+      "ai": [],
+      "human": true
+    }
+  },
+  "yylx.danmaku.bili": {
+    "sample_04": {
+      "ai": [
+        "openai"
+      ],
+      "human": true
+    },
+    "sample_05": {
+      "ai": [
+        "openai"
+      ],
+      "human": false
+    },
+    "sample_06": {
+      "ai": [
+        "llama"
+      ],
+      "human": false
+    },
+    "sample_09": {
+      "ai": [
+        "llama",
+        "qwen"
+      ],
+      "human": false
+    }
+  }
+}

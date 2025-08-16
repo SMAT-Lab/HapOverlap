@@ -1,0 +1,1694 @@
+{
+    "cn.damai.hongmeng": {
+        "screenCap_392252181613.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_392319757352.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_392600667992.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_392640202446.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_392791833992.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_393024474183.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_393101180928.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "cn.icheny.wechat": {
+        "screenCap_393463009745.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.100mi.ddmc": {
+        "screenCap_397577884083.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_398833939075.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.alipay.mobile.client": {
+        "screenCap_392036548560.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.amap.hmapp": {
+        "screenCap_399389641135.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_400396719159.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_400472704295.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_400520642704.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_400608912915.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.anjuke.home": {
+        "screenCap_401207295714.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_401340507117.png": {
+            "human": {
+                "label": "非高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_401807541707.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_401936640770.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_402718314755.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_402793153104.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.app.xt.retouch": {
+        "screenCap_403119913520.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_403208131320.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_403510568798.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.baidu.baiduapp": {
+        "screenCap_552499841153.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_552606416376.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_552909004049.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_553162349678.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.baidu.netdisk.hmos": {
+        "screenCap_405746962186.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_405843740241.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_405855587992.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_406080237069.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_406136123625.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_406212953487.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_406291716579.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.beike.hongmeng": {
+        "screenCap_406819992080.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_407325063476.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_408415293739.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.cainiao.cainiao4hmos": {
+        "screenCap_408634830343.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_408639984723.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_408674809251.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_408678159039.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.ccb.mobilebank.hm": {
+        "screenCap_410562556086.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_410651562301.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.cctv.yangshipin.app.harmonyp": {
+        "screenCap_411658770324.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_411931504947.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_412156322668.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_412370234064.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_412609532312.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.cmbchina.harmony": {
+        "screenCap_413510488800.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_414639999817.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.cmcc.cmvideohm": {
+        "screenCap_415851494357.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_415923985486.png": {
+            "human": {
+                "label": "非高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_416614938961.png": {
+            "human": {
+                "label": "非高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_416810618856.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_416850105705.png": {
+            "human": {
+                "label": "非高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        }
+    },
+    "com.ctrip.harmonynext": {
+        "screenCap_417674256831.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_418258013106.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.dewu.hos": {
+        "screenCap_421077926064.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_421156861843.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.dragon.read.next": {
+        "screenCap_423096224659.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_423171911479.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.fliggy.hmos": {
+        "screenCap_424973656644.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_425110338992.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_425366735609.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_425432356623.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.hm.cat.readall": {
+        "screenCap_427125554746.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_427180823172.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_427250838910.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_428234253637.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.hm.youdao": {
+        "screenCap_428762246011.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_428988883626.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_429375697263.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.hos.moonshot.kimichat": {
+        "screenCap_430298993653.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_431442250705.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.htinns.application": {
+        "screenCap_431867306109.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_432775456258.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.hupu.heroes": {
+        "screenCap_434267051361.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.icbc.harmonyclient": {
+        "screenCap_435531392567.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_435704569408.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.ihuman.words": {
+        "screenCap_660871973271.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.jd.hm.mall": {
+        "screenCap_436641975687.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_436909444065.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_437297043475.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_437847993843.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.jiaxiao.driveharmony": {
+        "screenCap_438060525592.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_438063246641.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_438085106679.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.jinrishuiyinxiangji.camera": {
+        "screenCap_438347298020.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_438357326051.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_438525871046.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.kanyun.hos.leo": {
+        "screenCap_439114409391.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_439228508805.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_439272418000.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_439311835445.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.kanyun.hos.solar": {
+        "screenCap_439940470407.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_439963063747.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_440137303733.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_440293833537.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.kuaiduizuoye.hm": {
+        "screenCap_468065016417.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.kuaishou.hmapp": {
+        "screenCap_468774039520.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_469709564103.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_470169723476.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        }
+    },
+    "com.kugou.hmmusic": {
+        "screenCap_470256544959.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.lemon.hm.lv": {
+        "screenCap_471329877971.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_471373487196.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_471392835095.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.lianjia.hongmeng": {
+        "screenCap_472019853809.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_472089672901.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_472161091532.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_472450355020.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_472659289423.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.liuzh.deviceinfo.hmos": {
+        "screenCap_556130253744.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_556178323406.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_556282246812.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.lucky.luckincoffee": {
+        "screenCap_556423265409.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_556632970936.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_557203212033.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_557470721057.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.luna.hm.music": {
+        "screenCap_558004065574.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_558544760212.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_558638479004.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_559191216287.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.meitu.meitupic": {
+        "screenCap_473807623557.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_473877048406.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_474060544568.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_474353869842.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_474409589037.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_474538157652.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.meituan.takeaway": {
+        "screenCap_725970020081.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_726007225781.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.pingan.oharm.carowner": {
+        "screenCap_638736236233.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.qihoo.hms.browser": {
+        "screenCap_476308320034.png": {
+            "human": {
+                "label": "非高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        }
+    },
+    "com.qimao.novel": {
+        "screenCap_477571799716.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_478332588134.png": {
+            "human": {
+                "label": "非高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_478635192245.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.qiyi.video.hmy": {
+        "screenCap_479318547587.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_479398803442.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_479478413599.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.qunar.hos": {
+        "screenCap_479839055702.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_479896792555.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_479984480172.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_479996992325.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_480000231437.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.sankuai.dianping": {
+        "screenCap_480112260675.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_481287135750.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.sdu.didi.hmos.psnger": {
+        "screenCap_483716462780.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_483719207532.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_483736906456.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_483960782019.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.sina.news.hm.next": {
+        "screenCap_562337027716.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_562591123032.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.sina.weibo.stage": {
+        "screenCap_485174159627.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.sinyee.babybus.recommendapp.hos": {
+        "screenCap_487987030650.png": {
+            "human": {
+                "label": "非高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_488020625610.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_488103951185.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_488203035041.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_488242525050.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.ss.dcar.auto": {
+        "screenCap_488469910108.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.ss.feishu": {
+        "screenCap_488943739335.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.ss.hm.article.news": {
+        "screenCap_489781336119.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_490297998561.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.ss.hm.ugc.aweme": {
+        "screenCap_563394046013.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_563826172889.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_564080993739.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.sunboxsoft.charge.institute.hmos": {
+        "screenCap_564762615698.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_564889595696.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_565608955035.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.taobao.movie.hongmeng": {
+        "screenCap_491086268864.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        }
+    },
+    "com.taobao.taobao4hmos": {
+        "screenCap_639048094861.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_639057122076.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_639106048824.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_639211035530.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_640189568989.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.taobao.taobaolive4hmos": {
+        "screenCap_640858018205.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_640881667805.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_640924250659.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        }
+    },
+    "com.tencent.hm.news": {
+        "screenCap_491348266308.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_491384215537.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_491471882784.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.tencent.hm.qqmusic": {
+        "screenCap_492915091962.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_492921418055.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_492963007062.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_493050023420.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_493416425047.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.tencent.meeting.app": {
+        "screenCap_668582119978.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_668642392338.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_668857036617.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.tencent.mqq": {
+        "screenCap_568011592388.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_568083937538.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_568236913548.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.tencent.mtthm": {
+        "screenCap_494090071716.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.tencent.videohm": {
+        "screenCap_669635587250.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_670170515606.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_670358523776.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_670536619476.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.tencent.wechat": {
+        "screenCap_670887945527.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_670966292521.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_671120818500.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_671174122677.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_671287385713.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_671358458503.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.tmall.tmall4hmos": {
+        "screenCap_671753626149.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_672127900608.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_672809845610.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_673278190557.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_673321419065.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        }
+    },
+    "com.tongcheng.hmos": {
+        "screenCap_495323761454.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_495425339771.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_495483173573.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.uc.mobile": {
+        "screenCap_646076152386.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_646248927440.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_646466463302.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_646756543717.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.umetrip.hm.app": {
+        "screenCap_496063909675.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_496239731661.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_496245144155.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.vip.hosapp": {
+        "screenCap_646961395629.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.ximalaya.ting.xmharmony": {
+        "screenCap_496811496433.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_496860870865.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_497065476227.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.xs.fm.next": {
+        "screenCap_498948418291.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.xunlei.thunder": {
+        "screenCap_500193363468.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.xunmeng.pinduoduo.hos": {
+        "screenCap_651953807109.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_652130069552.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_652243323468.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.yiche.autoeasyh": {
+        "screenCap_652749854520.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_652782114226.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.youku.next": {
+        "screenCap_500872912632.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.yumc.kfc.superapp": {
+        "screenCap_652992560557.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_653122183638.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_653774670282.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.zhibo8.hmclient": {
+        "screenCap_654084291773.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_654161590031.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_654298880277.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.zhihu.hmos": {
+        "screenCap_655753614637.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_656375130587.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.zhuanzhuan.hmoszz": {
+        "screenCap_656685185156.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_657104987086.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_657398823183.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_658088067175.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        }
+    },
+    "com.zuoyebang.homework": {
+        "screenCap_658458132028.png": {
+            "human": {
+                "label": "高成本渲染组件遮挡",
+                "annotator": "Human"
+            }
+        },
+        "screenCap_658779835750.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_658845152735.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_658866168640.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_659228664364.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_659948154973.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        }
+    },
+    "me.ele.eleme": {
+        "screenCap_660374210334.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_660419366006.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "高成本渲染组件遮挡"
+            }
+        }
+    },
+    "yylx.danmaku.bili": {
+        "screenCap_734692515369.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_734702012371.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_734711921779.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        },
+        "screenCap_734817873630.png": {
+            "human": {
+                "annotator": "Human",
+                "label": "非高成本渲染组件遮挡"
+            }
+        }
+    }
+}

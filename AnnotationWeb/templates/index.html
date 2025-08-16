@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>数据标注平台 - 遮挡类型分析</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>数据标注平台 - 遮挡类型分析</h1>
+            {% if app_name %}<div class="navigation">
+                {% if current_page > 1 %}<a href="{{ url_for('index', page=current_page-1) }}" class="nav-button"> < 上一个应用</a>{% endif %}
+                <span class="page-info">应用: <strong>{{ app_name }}</strong> ({{ current_page }} / {{ total_pages }})</span>
+                {% if current_page < total_pages %}<a href="{{ url_for('index', page=current_page+1) }}" class="nav-button">下一个应用 > </a>{% endif %}
+            </div>{% endif %}
+        </header>
+        <main id="annotation-area">
+            {% for sample in samples %}
+            {% set annos = annotations.get(sample.id, {}) %}
+            {% set ai_anno = annos.get('ai', {}) %}
+            {% set human_anno = annos.get('human', {}) %}
+            
+            <div class="sample-container {% if human_anno %}human-annotated{% elif ai_anno %}ai-annotated{% endif %}"
+                 id="sample-{{ sample.id }}" data-app-name="{{ app_name }}" data-sample-id="{{ sample.id }}">
+                <div class="sample-id-header">样本 ID: {{ sample.id }}</div>
+                <div class="image-row">
+                    <div class="image-wrapper"><img src="{{ url_for('serve_image', filepath=sample.images.before) if sample.images.before else '' }}" alt="Before"><span>Before</span></div>
+                    <div class="image-wrapper"><img src="{{ url_for('serve_image', filepath=sample.images.current) if sample.images.current else '' }}" alt="Current"><span>Current</span></div>
+                    <div class="image-wrapper"><img src="{{ url_for('serve_image', filepath=sample.images.after) if sample.images.after else '' }}" alt="After"><span>After</span></div>
+                </div>
+                {% if ai_anno %}<div class="ai-analysis-section">
+                    {% if ai_anno.reason %}<div class="annotation-details reason"><span class="annotator-badge ai">AI</span><strong>分析原因:</strong> {{ ai_anno.reason }}</div>{% endif %}
+                    {% if ai_anno.solution %}<div class="annotation-details solution"><span class="annotator-badge solution-badge">建议</span><strong>优化方案:</strong> {{ ai_anno.solution }}</div>{% endif %}
+                </div>{% endif %}
+
+                {% for group_key, group_data in labels.items() %}
+                {% set is_disabled = (group_key == 'ai_choice') %}
+                
+                <div class="label-group {% if is_disabled %}disabled-group{% endif %}">
+                    <h3 class="label-group-title">{{ group_data.title }}</h3>
+                    <div class="labels-container">
+                        {% for label in group_data.options %}
+                        {% if is_disabled %}
+                            {% set ai_label_translated = "高成本渲染组件遮挡" if ai_anno.get('label') == 'Yes' else "非高成本渲染组件遮挡" %}
+                            {% set is_selected = (ai_label_translated == label.id) %}
+                        {% else %}
+                            {% set is_selected = (human_anno.get('label') == label.id) %}
+                        {% endif %}
+                        
+                        <!-- *** 核心修改: 移除了div上的点击相关属性 *** -->
+                        <div class="label-option {% if is_selected %}selected{% endif %}" title="{{ label.description }}">
+                            <input type="radio" 
+                                   name="{{ group_key }}-{{ sample.id }}" 
+                                   id="{{ group_key }}-{{ sample.id }}-{{ label.id }}" 
+                                   {% if is_selected %}checked{% endif %} 
+                                   {% if is_disabled %}disabled{% endif %}>
+                            <!-- *** 核心修改: 将data-label-id移到label上，并确保for属性正确 *** -->
+                            <label for="{{ group_key }}-{{ sample.id }}-{{ label.id }}" data-label-id="{{ label.id }}">
+                                <strong>{{ label.title }}</strong>
+                            </label>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            {% endfor %}
+        </main>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

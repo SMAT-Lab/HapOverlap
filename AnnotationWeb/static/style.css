@@ -1,0 +1,44 @@
+/* static/style.css (增加只读组样式) */
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;background-color:#f4f7f6;color:#333;margin:0;padding:20px}
+.container{max-width:1400px;margin:0 auto;background-color:#fff;padding:20px 40px;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,.08)}
+header{border-bottom:2px solid #e0e0e0;padding-bottom:20px;margin-bottom:30px;text-align:center}
+h1{color:#1a73e8}
+.navigation{display:flex;justify-content:space-between;align-items:center;margin-top:15px}
+.nav-button{background-color:#1a73e8;color:#fff;padding:10px 20px;border-radius:5px;text-decoration:none;font-weight:500;transition:background-color .3s}
+.nav-button:hover{background-color:#1558b3}
+.page-info{font-size:1.2em;color:#555}
+.sample-container{border:1px solid #ddd;border-radius:8px;padding:20px;margin-bottom:30px;transition:all .3s ease;background-color:#fff}
+.sample-container.human-annotated{border-left:5px solid #4CAF50;background-color:#f8f9fa}
+.sample-container.ai-annotated{border-left:5px solid #007bff;background-color:#f8f9fa}
+.sample-id-header{font-size:1.1em;font-weight:700;margin-bottom:15px;color:#333}
+.image-row{display:flex;justify-content:space-around;gap:20px;margin-bottom:20px}
+.image-wrapper{text-align:center;flex:1;min-width:0}
+.image-wrapper img{max-width:100%;height:auto;border:1px solid #ccc;border-radius:4px;background-color:#eee}
+.image-wrapper span{display:block;margin-top:8px;font-weight:500;color:#666}
+.ai-analysis-section{margin:15px 0 20px;display:flex;flex-direction:column;gap:10px}
+.annotation-details{background-color:#e9ecef;border:1px solid #dee2e6;border-radius:4px;padding:10px 15px;font-size:.95em;color:#495057}
+.annotation-details.solution{background-color:#e2f0d9;border-left:4px solid #548235}
+.annotation-details strong{color:#212529}
+.annotator-badge{display:inline-block;padding:2px 8px;font-size:.8em;font-weight:700;color:#fff;border-radius:10px;margin-right:10px;vertical-align:middle}
+.annotator-badge.ai{background-color:#007bff}
+.annotator-badge.solution-badge{background-color:#548235}
+.label-group{margin-top:25px;padding-top:15px;border-top:1px dashed #ccc}
+.label-group:first-of-type{margin-top:15px;padding-top:0;border-top:none}
+.label-group-title{font-size:1.1em;color:#333;margin-bottom:15px}
+
+/* *** 新增: 只读标签组的样式 *** */
+.disabled-group {
+    opacity: 0.65;
+    pointer-events: none; /* 禁止所有鼠标事件，使其不可点击 */
+}
+.disabled-group .label-group-title {
+    color: #6c757d; /* 标题颜色变灰 */
+}
+
+.labels-container{display:grid;grid-template-columns:repeat(auto-fit,minmax(400px,1fr));gap:15px}
+.label-option{border:1px solid #ccc;border-radius:5px;padding:15px;cursor:pointer;transition:all .2s ease-in-out;display:flex;align-items:center;position:relative}
+.label-option:hover{border-color:#1a73e8;box-shadow:0 2px 5px rgba(0,0,0,.1)}
+.label-option.selected{background-color:#e8f0fe;border-color:#1a73e8;font-weight:700}
+.label-option input[type=radio]{margin-right:15px;transform:scale(1.3)}
+.label-option label{cursor:pointer;flex-grow:1}
+.ai-suggestion-badge{display:inline-block;background-color:#007bff;color:white;padding:2px 8px;font-size:0.75em;border-radius:10px;margin-left:auto;font-weight:normal;}
